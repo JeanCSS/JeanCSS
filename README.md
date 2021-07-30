@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Jean 
+## Oiii! Eu sou o Jean 
  <div>
   <a href="https://github.com/JeanCSS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanCSS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
