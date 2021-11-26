@@ -29,7 +29,7 @@
   ![Snake animation](https://github.com/JeanCSS/JeanCSS/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-<div style="display: inline_block">
+<div width="100%" style="display: inline_block">
   <img align="center" alt="vs"  width="188px" height="188px" src="https://media.giphy.com/media/hX6zuSyNhaSiOukKUp/giphy.gif"> 
   <img align="center" alt="vs"  width="188px" height="188px" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif"> 
   <img align="center" alt="vs"  width="188px" height="188px" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"> 
