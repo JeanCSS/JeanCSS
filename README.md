@@ -1,9 +1,9 @@
 ## Oiii! Eu sou o Jean 
 
- <div>
+ <div><br>
   <a href="https://github.com/JeanCSS">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JeanCSS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCSS&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=JeanCSS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCSS&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 <div style="display: inline_block"><br>
@@ -30,6 +30,8 @@
  
 </div>
 <div style="display: inline_block">
-  <img align="right" alt="vs"  width="226px" height="auto" src="https://media.giphy.com/media/hX6zuSyNhaSiOukKUp/giphy.gif"> 
-  <img align="right" alt="ss"  width="226px" height="auto" src="https://media.giphy.com/media/ZBythhSiZAoYea6vC2/giphy.gif"> 
+  <img align="center" alt="vs"  width="188px" height="188px" src="https://media.giphy.com/media/hX6zuSyNhaSiOukKUp/giphy.gif"> 
+  <img align="center" alt="vs"  width="188px" height="188px" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif"> 
+  <img align="center" alt="vs"  width="188px" height="188px" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"> 
+  <img align="center" alt="ss"  width="188px" height="188px" src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif"> 
 </div>
