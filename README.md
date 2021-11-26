@@ -30,7 +30,7 @@
  
 </div>
 <div width="100%" style="display: inline_block">
-  <img align="center" alt="vs"  width="188px" height="188px" src="https://media.giphy.com/media/hX6zuSyNhaSiOukKUp/giphy.gif"> 
+  <img align="center" alt="vs"  width="188px" height="188px" src="https://media.giphy.com/media/ZBythhSiZAoYea6vC2/giphy.gif"> 
   <img align="center" alt="vs"  width="188px" height="188px" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif"> 
   <img align="center" alt="vs"  width="188px" height="188px" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"> 
   <img align="center" alt="ss"  width="188px" height="188px" src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif"> 
